@@ -7,6 +7,7 @@
 
 AI_Unlocker - это удобное приложение для Windows, которое помогает получить доступ к международным сервисам через изменение системного hosts файла. Программа автоматически настраивает DNS записи для популярных платформ и сервисов из под санкций.
 <img width="493" height="493" alt="image_2025-07-17_21-52-42" src="https://github.com/user-attachments/assets/3c82d7e3-6dc1-4123-a71f-7eee0035a110" />
+<img width="495" height="498" alt="22" src="https://github.com/user-attachments/assets/8c8e874a-667e-45c3-9f57-81590b334c04" />
 
 ## ✨ Возможности
 
