@@ -1,9 +1,8 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # 🚀 AI Unlocker - Инструмент для обхода санкций
 
 > 🌐 **Современное приложение для свободного доступа к интернет-сервисам**
 > Разработано **Zатворник** с использованием GO + Wails2
+<img width="497" height="577" alt="image" src="https://github.com/user-attachments/assets/5b6a9f18-1425-4d29-a4a1-d3f72d65acee" /> <img width="495" height="577" alt="image" src="https://github.com/user-attachments/assets/fa056ca6-bfa4-45cb-8b65-39aa25646017" />
 
 ## 📋 Описание
 
